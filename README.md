@@ -3,4 +3,5 @@ This repo contains a collection of small node.js challenges. To view them checko
 
 # Challenges
 
-[Problem 1: Async Parallel Data Fetcher](https://github.com/fullyslick/node-js-challenges/tree/Problem-1-Async-Parallel-Data-Fetcher)
+- [Problem 1: Async Parallel Data Fetcher](https://github.com/fullyslick/node-js-challenges/tree/Problem-1-Async-Parallel-Data-Fetcher)
+- [Problem 2: Search Endpoint with Filtering and Pagination](https://github.com/fullyslick/node-js-challenges/tree/Problem-2-Search-Endpoint-Filtering-Pagination)
