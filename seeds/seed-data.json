@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "createdAt": "2025-01-01T10:00:00.000Z",
+      "age": 30,
+      "phone": "555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "createdAt": "2025-01-02T12:00:00.000Z",
+      "age": 25,
+      "phone": "555-5678"
+    }
+  ]
+}
